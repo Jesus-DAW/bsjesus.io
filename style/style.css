@@ -1,0 +1,46 @@
+  /* Jesús Marcos Gálvez */
+  
+  /* Barra navegación */
+
+  .navbar {top:0;
+    z-index:99;
+   color: rgb(0, 0, 0);}
+
+body{
+    background-image : url(../imagenes/FONDO.jpg);
+    
+}
+
+/* Jumbotron */
+
+.jumbotron {background-image: url(../imagenes/gaming.jpeg);
+            height:100vh;
+            background-size: cover;
+           }
+
+.rounded-large {border-radius:1px;}
+
+.p-6 {padding:20vh;}
+
+#contraste {background-color: rgba(80, 240, 226, 0.5);
+            height:60%;
+            }
+
+/* Footer */
+
+footer ul {list-style-type: none;
+           margin:0;
+           padding:0;}
+
+.bg-color{
+    background-color: rgba(13, 246, 130, 0.6) ;
+
+}
+.textofooter{
+  color: black;
+}
+
+
+#sliderVisuales{
+  
+}
